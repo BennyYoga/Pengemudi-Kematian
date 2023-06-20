@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/AUD-20221222-WA0008.mp3-0c9e92689bb42fb692cf7485fb46e8b1.mp3str"
+
+[deps]
+
+source_file="res://assets/Audio/AUD-20221222-WA0008.mp3"
+dest_files=[ "res://.import/AUD-20221222-WA0008.mp3-0c9e92689bb42fb692cf7485fb46e8b1.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Kalimba.mp3-216dc51e443c5a82549ab078ef7c1bc1.mp3str"
+
+[deps]
+
+source_file="res://assets/Audio/Kalimba.mp3"
+dest_files=[ "res://.import/Kalimba.mp3-216dc51e443c5a82549ab078ef7c1bc1.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
